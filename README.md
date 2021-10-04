@@ -3,8 +3,6 @@
 ## Instruções
 
 Implemente um programa Java para cada um dos enunciados presentes na lista.
-Cada exercício deverá ser implementado em um projeto específico do IntelliJ.
-Durante a submissão, você deverá comprimir o diretório do projeto (.zip) e enviá-lo.
 
 ## Exercício 01: Tipos Primitivos e Variáveis
 
