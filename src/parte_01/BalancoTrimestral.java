@@ -9,6 +9,4 @@ public class BalancoTrimestral {
 
         System.out.println(gastosTrimestre);
     }
-    int mediaMensal;
-    System.out.println
 }
