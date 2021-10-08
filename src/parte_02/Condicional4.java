@@ -2,7 +2,10 @@ package parte_02;
 
 import java.util.Scanner;
 
+// Classe destinada para identificar qual o conceito do aluno de acordo com os parametros informados na questão
 public class Condicional4 {
+
+    // Função main - primeira função a ser executada pela JVM/COMPILADOR
     public static void main(String[] args){
         // Variáveis utilizadas
         float getGradeValue;

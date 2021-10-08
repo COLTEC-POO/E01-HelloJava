@@ -2,7 +2,10 @@ package parte_02;
 
 import java.util.Scanner;
 
+//Classe destinada para identificar quais dos números é maior. Se é número A ou número B
 public class Condicional5 {
+
+    // Função main - primeira função a ser executada pela JVM/COMPILADOR
     public static void main(String[] args){
         //Variáveis utilizadas
         float getValueA, getValueB;
