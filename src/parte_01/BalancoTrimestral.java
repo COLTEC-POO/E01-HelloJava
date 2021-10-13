@@ -10,8 +10,8 @@
             int gastosTrimestre = gastosJaneiro + gastosFevereiro + gastosMarco;
             System.out.println(gastosTrimestre);
 
-            int mediaMensal = (gastosJaneiro + gastosFevereiro + gastosMarco)/3;
-            System.out.println("Valor da media mensal = " + mediaMensal);
+            int mediaMes = (gastosJaneiro + gastosFevereiro + gastosMarco)/3;
+            System.out.println("Valor da media mensal = " + mediaMes);
 
         }
     }
