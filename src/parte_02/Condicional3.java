@@ -19,7 +19,7 @@ public class Condicional3 {
             System.exit(1);
         }
 
-        if (nota > 60.0)
+        if (nota >= 60.0)
         {
             System.out.println("O aluno passou de ano!!");
         }
