@@ -10,9 +10,8 @@ public class Condicional4 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
-        int conceito;
         System.out.println("Entre a nota do Davih Duque ");
-        conceito = entrada.nextInt();
+        int conceito = entrada.nextInt();
 
         if(conceito >= 90) {
             System.out.println("Davih Duque: A");
