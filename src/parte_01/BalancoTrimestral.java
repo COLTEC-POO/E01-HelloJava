@@ -1,6 +1,6 @@
 /*
  * UFMG - Universidade Federal de Minas Gerais
- * COLTEC- Colégio Técnico
+ * COLTEC - Colégio Técnico
  * Disciplina: Programação Orientada a Objetos
  * Prof. João Eduardo
  *
