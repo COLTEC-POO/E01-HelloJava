@@ -19,6 +19,5 @@ public class Condicional4 {
         }else if(nota<=40){
             System.out.println("Resultado do aluno:F");
         }
-
     }
 }
