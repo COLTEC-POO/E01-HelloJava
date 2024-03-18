@@ -1,4 +1,4 @@
-package parte_01;
+package parte_01.parte_1;
 
 public class BalancoTrimestral {
 
