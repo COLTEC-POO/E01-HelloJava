@@ -8,9 +8,9 @@ public class Condicional3 {
 
         Scanner sc = new Scanner(System.in);
         System.out.printf("digite a nota final do seu aluno : ");
-        int Nota = sc.nextInt();
+        int NotaF = sc.nextInt();
 
-        if(nota_final >= 60){
+        if(NotaF >= 60){
             System.out.println("O aluno passou de ano");
         }
         else{

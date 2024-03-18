@@ -17,11 +17,11 @@ public class Condicional5 {
         if(Num1 > Num2){
             System.out.printf("O numero %d e o maior\n",Num2);
         }
-        else if(num_1 == num_2){
+        else if(Num1 == Num2){
             System.out.println("Ambos numeros tem o mesmo valor");
         }
         else{
-            System.out.printf("O numero %de o maior\n",num_2);
+            System.out.printf("O numero %de o maior\n",Num2);
         }
 
     }

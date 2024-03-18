@@ -8,24 +8,24 @@ public class Condicional4 {
 
         Scanner sc = new Scanner(System.in);
         System.out.printf("digite a nota final do seu aluno : ");
-        int Nota = sc.nextInt();
+        int NotaF = sc.nextInt();
 
-        if(nota_final >= 90){
+        if(NotaF >= 90){
             System.out.println("seu aluno foi nota A");
         }
-        else if(nota_final >= 80 && nota_final <= 89){
+        else if(NotaF >= 80 && NotaF <= 89){
             System.out.println("Nota do aluno: B");
         }
-        else if(nota_final >= 70 && nota_final <= 79){
+        else if(NotaF >= 70 && NotaF <= 79){
             System.out.println("Nota do aluno: C");
         }
-        else if(nota_final >= 60 && nota_final <= 69){
+        else if(NotaF >= 60 && NotaF <= 69){
             System.out.println("Nota do aluno: D");
         }
-        else if(nota_final >= 49 && nota_final <= 59){
+        else if(NotaF >= 49 && NotaF <= 59){
             System.out.println("Nota do aluno: E");
         }
-        else if(nota_final < 40){
+        else if(NotaF < 40){
             System.out.println("Nota do aluno: F");
         }
     }
