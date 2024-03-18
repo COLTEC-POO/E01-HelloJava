@@ -7,6 +7,7 @@ public class Condicional3 {
         int nota;
         System.out.println("Digite a nota do aluno:");
         nota = scanner.nextInt();
+
         if(nota>=60){
             System.out.println("O aluno passou de ano");
         }else{
