@@ -7,6 +7,7 @@ public class Condicional1 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite o numero");
+
         int numero = scanner.nextInt();
         if(numero % 2 == 0){
             System.out.println("O numero e par");
